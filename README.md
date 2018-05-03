@@ -2,4 +2,4 @@
 选择时间区间控件
 
 
-![image](https://github.com/dengqi2008.ok@163.com/DateRangeView/DateRangeDemo/DateRangeDemo/demo.png)
+![image](https://github.com/justqi/DateRangeView/blob/master/DateRangeDemo/DateRangeDemo/demo.png)
